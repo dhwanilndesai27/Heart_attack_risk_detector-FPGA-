@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Apr 19 22:03:26 2026
+# Process ID         : 22440
+# Current directory  : C:/Users/Dhwanil/Desktop/fpga_2.0/Perceptron_heart/Perceptron_heart.runs/impl_1
+# Command line       : vivado.exe -log heart_risk_minimal.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source heart_risk_minimal.tcl -notrace
+# Log file           : C:/Users/Dhwanil/Desktop/fpga_2.0/Perceptron_heart/Perceptron_heart.runs/impl_1/heart_risk_minimal.vdi
+# Journal file       : C:/Users/Dhwanil/Desktop/fpga_2.0/Perceptron_heart/Perceptron_heart.runs/impl_1\vivado.jou
+# Running On         : Dhwanil27
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 8379 MB
+# Swap memory        : 10997 MB
+# Total Virtual      : 19376 MB
+# Available Virtual  : 3997 MB
+#-----------------------------------------------------------
+source heart_risk_minimal.tcl -notrace
